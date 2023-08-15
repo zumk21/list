@@ -51,7 +51,7 @@
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "http://2733205.ka509691.web.hosting-test.net/online.php",
+  "servers_online_api": "https://mynameiswizz.site/online.php",
   "links_header": [
     {
       "icon": "global",
